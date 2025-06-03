@@ -164,7 +164,8 @@ Despite needing two levels of differencing, the ARIMA(1,1,0) model achieved reas
   
   MSc Data Science | BCS Member
 
-
+### Google Slides link:
+https://docs.google.com/presentation/d/1Rk24RbhEt7Q8Soyg6WK8LwSM1MoItgi23cft_ejmFns/edit?slide=id.g360024576d6_3_229#slide=id.g360024576d6_3_229
 
 
 
